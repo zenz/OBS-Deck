@@ -16,4 +16,4 @@
 ![alt text](pics/140951089.jpg "所用材料")
 ![alt text](pics/470265108.jpg "内部")
 ![alt text](pics/1128984394.jpg "完成品")
-![alt text](pics/481191450.jpg "Slim版")
+![alt text](pics/481191450.jpeg "Slim版")
