@@ -11,6 +11,9 @@
 
 这里附上壳子的STL以及STEP文件，以及程序源代码。
 
+3/23 新增加Slim版本。
+
 ![alt text](pics/140951089.jpg "所用材料")
 ![alt text](pics/470265108.jpg "内部")
 ![alt text](pics/1128984394.jpg "完成品")
+![alt text](pics/481191450.jpg "Slim版")
